@@ -1,2 +1,2 @@
-# ceo
+# CEO
 Centro Estratégico de Operaciones
